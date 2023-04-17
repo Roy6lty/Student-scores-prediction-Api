@@ -7,5 +7,5 @@ catboost
 scikit-learn
 dill
 tdqm
-Flask
+flask
 #-e .
