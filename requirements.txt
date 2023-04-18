@@ -8,4 +8,4 @@ scikit-learn
 dill
 tdqm
 flask
-#-e .
+-e .
